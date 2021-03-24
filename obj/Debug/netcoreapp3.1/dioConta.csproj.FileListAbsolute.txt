@@ -1,0 +1,13 @@
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\bin\Debug\netcoreapp3.1\dioConta.exe
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\bin\Debug\netcoreapp3.1\dioConta.deps.json
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\bin\Debug\netcoreapp3.1\dioConta.runtimeconfig.json
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\bin\Debug\netcoreapp3.1\dioConta.runtimeconfig.dev.json
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\bin\Debug\netcoreapp3.1\dioConta.dll
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\bin\Debug\netcoreapp3.1\dioConta.pdb
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\obj\Debug\netcoreapp3.1\dioConta.csprojAssemblyReference.cache
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\obj\Debug\netcoreapp3.1\dioConta.AssemblyInfoInputs.cache
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\obj\Debug\netcoreapp3.1\dioConta.AssemblyInfo.cs
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\obj\Debug\netcoreapp3.1\dioConta.csproj.CoreCompileInputs.cache
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\obj\Debug\netcoreapp3.1\dioConta.dll
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\obj\Debug\netcoreapp3.1\dioConta.pdb
+C:\Users\hmjussani\Documents\PlatformIO\Projects\dio\dioConta\obj\Debug\netcoreapp3.1\dioConta.genruntimeconfig.cache
